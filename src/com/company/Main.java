@@ -4,16 +4,6 @@ import java.util.*;
 
 public class Main {
 
-    public static class Pair{
-        public String competitor;
-        public int mentions;
-
-        Pair(String competitor, int mentions){
-            this.competitor = competitor;
-            this.mentions = mentions;
-        }
-    }
-
     public static void main(String[] args) {
 	    List<String> competitorList = new ArrayList<>();
 	    competitorList.add("Ebay");
