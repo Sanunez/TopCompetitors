@@ -1,3 +1,5 @@
+#### All relevant code housed in [main.java](https://github.com/Sanunez/TopCompetitors/blob/master/src/com/company/Main.java)
+
 ## Problem
 Given a list of competitors, and a list of reviews, and a desired N number of most mentioned, return a  n sized list sorted from most mentioned to least mentioned
 
